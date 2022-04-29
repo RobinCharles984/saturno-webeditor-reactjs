@@ -1,10 +1,12 @@
-import React from 'react'
-import { ReactDOM } from 'react'
+//Stylesheet files
+import './styles/Global.css'
 
-export function App(){
-    return(
-        <div>
-            <h1>Hello World!</h1>
-        </div>
+//React files
+import { Home } from './pages/Home'
+import { Header } from './pages/Header'
+
+export function App() {
+    return (
+        <Header/>
     )
 }

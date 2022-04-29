@@ -1,0 +1,17 @@
+#header{
+    background-color: grey;
+    width: 100vh;
+    color: #f8f8f8f0;
+    font-style: italic;
+    border-bottom: solid;
+}
+
+img{
+    width: 280px;
+}
+
+h1{
+    float: right;
+    margin: 0;
+    padding-top: 12px;
+}

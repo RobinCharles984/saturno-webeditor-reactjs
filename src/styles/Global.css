@@ -1,0 +1,9 @@
+* {
+    background-color: rgb(42, 43, 56);
+    font-family: 'Numans', serif;
+}
+
+body {
+    width: 100vh;
+    height: 100vh;
+}
