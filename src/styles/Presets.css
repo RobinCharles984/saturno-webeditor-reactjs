@@ -1,0 +1,35 @@
+#presetsDiv{
+    /* background-color: aliceblue; */
+    top: 65.19px;
+    width: 30%;
+    justify-content: center;
+    border: solid;  
+}
+
+#presetsBnk{
+    background-color: aquamarine;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+#bnkName{
+    font-size: 1.2em;;
+}
+
+#presetsCfg{
+    
+}
+
+input{
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 0.9em;
+    border: 0;
+}
+
+select{
+    float: right;
+    font-weight: bold;
+    font-family: 'Numans', serif;
+}

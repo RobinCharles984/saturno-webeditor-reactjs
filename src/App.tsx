@@ -2,11 +2,14 @@
 import './styles/Global.css'
 
 //React files
-import { Home } from './pages/Home'
 import { Header } from './pages/Header'
+import {Presets} from './pages/Presets'
 
 export function App() {
     return (
-        <Header/>
+        <div>
+            <Header />
+            <Presets />
+        </div>
     )
 }

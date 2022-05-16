@@ -1,17 +1,20 @@
-#header{
-    background-color: grey;
-    width: 100vh;
+header{
+    background-color: rgb(30, 30, 40);
     color: #f8f8f8f0;
     font-style: italic;
     border-bottom: solid;
+    display: flex;
+    width: 100%;
 }
 
 img{
-    width: 280px;
+    width: 300px;
 }
 
 h1{
-    float: right;
+    text-align: center;
     margin: 0;
     padding-top: 12px;
+    justify-content: center;
+    padding-left: 424.8px;
 }
